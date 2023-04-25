@@ -1,6 +1,7 @@
 <?php
 
 $array = Array(1,'\"22\"', 3, 4);
+$array2 = Array(1,'\"22\"', 3, 4);
 
 print_r($array);
 
