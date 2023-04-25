@@ -8,3 +8,5 @@ echo "<br>";
 echo "<br>";
 echo "<br>";
 echo stripslashes($array[1]);
+echo stripslashes($array[0]);
+echo stripslashes($array[2]);
